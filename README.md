@@ -1,9 +1,10 @@
 # 💫About Me :
 👋 Hi, I’m Chandan Tripathi 
 👀 I’m interested in Coding 
-🌱 I’m currently learning Kotlin and Android 
+👀 I'm Fornt-end Android devloper
+🌱 I’m currently learning Full Stack Web development
 💞️ I’m looking to collaborate on Youtube 
-Fun fact....I am spend almost 8 hours listening songs
+Fun fact....I am spend almost 3 hours listening song/Movies
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100040521788524) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/invites/contact/?i=1ff94jo9se10d&utm_content=8a7es1e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandan-bbdu-847bb0233) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ChandanTripath1?t=x6olIqGFxHdZlhv3xuMwuA&s=08) 
